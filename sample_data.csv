@@ -1,0 +1,31 @@
+Month,UnitName,UnitsConsumed,Cost
+January,Kitchen,120.5,18.08
+January,Living Room,95.2,14.28
+January,Bedroom,85.3,12.80
+January,Office,110.7,16.61
+January,Garage,45.9,6.89
+February,Kitchen,115.8,17.37
+February,Living Room,90.1,13.52
+February,Bedroom,82.4,12.36
+February,Office,105.3,15.80
+February,Garage,42.8,6.42
+March,Kitchen,125.2,18.78
+March,Living Room,98.7,14.81
+March,Bedroom,88.9,13.34
+March,Office,115.6,17.34
+March,Garage,48.3,7.25
+April,Kitchen,118.9,17.84
+April,Living Room,93.4,14.01
+April,Bedroom,86.1,12.92
+April,Office,108.2,16.23
+April,Garage,44.7,6.71
+May,Kitchen,122.3,18.35
+May,Living Room,96.8,14.52
+May,Bedroom,87.5,13.13
+May,Office,112.4,16.86
+May,Garage,46.8,7.02
+June,Kitchen,130.1,19.52
+June,Living Room,102.3,15.35
+June,Bedroom,91.7,13.76
+June,Office,118.9,17.84
+June,Garage,50.2,7.53
